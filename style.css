@@ -1,0 +1,20 @@
+.container{
+    text-align:center ;
+    background-color:gray;
+}
+
+.go{
+    text-align: center;
+    height: 300px;
+    width: 430px;
+    margin: 200px auto;
+}
+.table {
+    background-color: DimGray;
+    height:500px;
+  width: 700px;
+  margin: 220px;
+  }
+
+  
+
